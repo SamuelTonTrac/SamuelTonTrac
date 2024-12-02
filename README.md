@@ -21,11 +21,6 @@ I am a **Senior React/React Native Developer** with expertise in building modern
 - Projects that involve logistics, predictive analytics, or scalable web/mobile solutions.
 - Open-source contributions to React or Node.js ecosystems.
 
-## 📫 How to Reach Me
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
-
 ## 🌟 Fun Fact
 I’m passionate about leveraging technology to streamline complex processes, particularly in industries like mining and transportation, and I enjoy exploring new frameworks and tools to keep up with the ever-evolving tech landscape.
 
